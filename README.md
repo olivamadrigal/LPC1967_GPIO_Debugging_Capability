@@ -17,6 +17,16 @@ The two objectives for CPU output and input are attained. The former establishes
 
 4) Physical implementation through wire wrapping and soldering techniques.
 
+5) Refer to attached diagrams if you decided to use this setup.
+
+# Orignal and Derived Equations:
+
+Resistor-LED KVL circuit equation: V_cc = I_led + RV_led
+
+Resistance to limit current through LED: R = (V_cc - V_led) / I_led
+
+Ohm's Law ;) V = IR.
+
 # Technology Stack
 
 1) LCP1769 CPU module soldered onto prototype board with power unit
