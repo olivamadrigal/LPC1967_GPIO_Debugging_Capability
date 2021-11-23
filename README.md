@@ -24,3 +24,7 @@ The two objectives for CPU output and input are attained. The former establishes
 2) LPCExpresso IDE to program the device
 
 3) LEDs, IN4003 DIODE
+
+# Provided Headers 
+
+LCP17xx.h and other header files are provided through NPX and the lab.
