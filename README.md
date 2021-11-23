@@ -28,3 +28,4 @@ The two objectives for CPU output and input are attained. The former establishes
 # Provided Headers 
 
 LCP17xx.h and other header files are provided through NPX and the lab.
+Refer to guide "Bringing Up LPCXpresso For Ubuntu Linux OS"
